@@ -23,24 +23,24 @@ Examples of Prime Numbers:
 - Suitable for use in performance-sensitive tasks like cryptography or data validation
 
 Using O(n):
-5 → True
-10 → False
-13 → True
-25 → False
-29 → True
+5 → True,
+10 → False,
+13 → True,
+25 → False,
+29 → True,
 
 Using O(n/2):
-5 → True
-10 → False
-13 → True
-25 → False
-29 → True
+5 → True,
+10 → False,
+13 → True,
+25 → False,
+29 → True,
 
 Using O(√n):
-5 → True
-10 → False
-13 → True
-25 → False
-29 → True
+5 → True,
+10 → False,
+13 → True,
+25 → False,
+29 → True,
 
 
