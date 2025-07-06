@@ -40,5 +40,7 @@ Using O(√n):
 13 → True,
 25 → False,
 29 → True,
+## OUTPUT :
+![image](https://github.com/user-attachments/assets/ec8e41d8-0eea-426d-8868-bd6af0214b01)
 
 
