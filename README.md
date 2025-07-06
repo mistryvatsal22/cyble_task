@@ -1,8 +1,6 @@
 # 🔢 Prime Number Checker in Python
 
-This project demonstrates how to check whether a number is **prime** using three different algorithms, each with improved time complexity. It's written in Python and optimized for clarity, efficiency, and scalability — suitable for both academic and MNC-level technical assessments.
-
----
+This project demonstrates how to check whether a number is **prime** using three different algorithms, each with improved time complexity. It's written in Python and optimized for clarity, efficiency, and scalability.
 
 📌 What Is a Prime Number?
 
